@@ -1,0 +1,13 @@
+
+
+#programTableCell {
+    height: 10vh;
+}
+
+#programTableOverFlow {
+    overflow-y: scroll
+}
+
+#programPartners{
+    font-family: "Comic Sans MS";
+}

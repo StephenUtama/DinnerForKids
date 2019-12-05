@@ -1,0 +1,112 @@
+.trial {
+  width: 100%;
+  height: 86vh;
+  background-color: rgb(255, 255, 255);
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.hunnid {
+  height: 100%;
+}
+
+.fck-banner {
+  background-color: white;
+  border-bottom: 3px solid black;
+}
+
+.m-height {
+  height: 100%;
+}
+
+/************************************/
+.pill-text-color {
+  text-decoration-color: white;
+}
+.banner-image {
+  max-height: 70px;
+  max-width: 100%;
+}
+.banner-container {
+  border-bottom: 0px;
+}
+.pill-container {
+  height: calc(100vh - 120px);
+  padding-right: 0px;
+}
+.no-scroll {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.pill-tabs {
+  text-decoration-color: white;
+  margin-top: 10px;
+  margin-left: 5px;
+  font-family: "Comic Sans MS";
+}
+
+.pill-tabs-color {
+  background-color: rgb(104, 212, 153);
+}
+.nav-color {
+  background-color: rgb(34, 34, 34);
+}
+.order-div {
+  max-width: 97%;
+  height: 100%;
+}
+/******************************************/
+#WelcomeMessage{
+  font-family: "Comic Sans MS";
+}
+#WelcomeMessage h1,
+h2 {
+  text-align: center;
+}
+#WelcomeMessage h1 {
+  font-size: 5em;
+}
+
+.WelcomeMessage-Image {
+  max-height: 250px;
+  max-width:  700px;
+  position: absolute;
+  bottom: 0;
+  left: 250px;
+}
+
+/*****************************************/
+#programTraining {
+  font-family: "Comic Sans MS";
+}
+#programTraining h2{
+  text-align: center;
+}
+
+.cardLink{
+  color: rgb(19, 168, 86);
+}
+
+.cardLink:hover{
+  color: rgb(8, 110, 54);
+}
+
+.btn-primary.confirmdeliveryButton{
+  background-color: rgb(14, 180, 64);
+  border-color: rgb(14, 180, 64);
+}
+
+.btn-primary.confirmdeliveryButton:hover{
+  background-color: rgb(13, 156, 56);
+  border-color: rgb(13, 156, 56);
+}
+
+
+
+#deliveries{
+  font-family: "Comic Sans MS";
+}
+
+#restaurantPartner{
+  font-family: "Comic Sans MS";
+}
